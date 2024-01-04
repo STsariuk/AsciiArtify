@@ -125,8 +125,4 @@ cache              ClusterIP      10.43.55.108    <none>        6379/TCP        
 ambassador         LoadBalancer   10.43.123.136   <pending>     80:32127/TCP                                            10m
 ```
 
-### Коротке демо вище вказаних кроків
-[Hared link](https://drive.google.com/file/d/1jAoOlXXYBRMLv3eAK0QK2MeF9sjYI2MI/view?usp=sharing)
-
-
-
+[Коротке демо вище описаних кроків](https://drive.google.com/file/d/1jAoOlXXYBRMLv3eAK0QK2MeF9sjYI2MI/view?usp=sharing)

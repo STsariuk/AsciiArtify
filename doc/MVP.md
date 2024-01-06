@@ -20,6 +20,7 @@ k8sdiy-api:599e1af
 $ curl -F 'image=@../data/k8s.png' localhost:8081/img/
 `
 - Отримаємо результат прямо в консолі:
+
 ![Result](.data/result.png) 
 
 ![MVP_DEMO](.data/MVP.gif)
